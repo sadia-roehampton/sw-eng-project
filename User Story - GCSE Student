@@ -1,0 +1,13 @@
+As a GCSE Geography student, I want to use a program that will give me different data based on cities, populations and language
+
+I envision that the program will have features that allow me to see different populations, countries, continents and languages in a format of organised lists where i will
+be able to see different data sets in reports based on my input. I would like this as this program would allow me to have easy comparisons to use for my current GCSE
+Geography course homework. It would let me learn how populations line up accordingly with countries as well as popularity of languages
+
+An example is if i input the number of '5' as the top 'N' populated countries in the world, continent or region, i expect to be given the population size of different
+countries in descending order in a list. It would give me the names along with the population size, giving me the information i need for studying for my course.
+In addition, it would be nice to have a feature that tells me the most spoken languages from greatest to smallest so i would be able to learn the percentages of the
+world in which these are spoken, allowing me to learn rough numbers of the people who speak the language.
+
+By using this program i hope to gain better understanding of the dispersion of population in the world as well as the correspondence of languages spoken to the populated
+continents. I also wish that the country report will help me learn about specifics on it, letting me recognise differences between countries in different continents.
